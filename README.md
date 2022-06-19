@@ -1,5 +1,5 @@
 # HANA
-Demotic system to control lights, TVs, etc.
+Home automation system to control lights, TVs, etc.
 
 ## IR Emulator
 
